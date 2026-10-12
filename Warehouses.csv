@@ -1,0 +1,19 @@
+Warehouse_ID,Warehouse_Name,Zone,Area
+WH-001,Andheri East Fulfillment Center,Mumbai Central,Andheri East
+WH-002,Goregaon Fulfillment Center,Mumbai North,Goregaon
+WH-003,Malad Fulfillment Center,Mumbai North,Malad
+WH-004,Kandivali Fulfillment Center,Mumbai North,Kandivali
+WH-005,Borivali Fulfillment Center,Mumbai North,Borivali
+WH-006,Kurla Fulfillment Center,Mumbai Central,Kurla
+WH-007,Chembur Fulfillment Center,Mumbai Central,Chembur
+WH-008,Dadar Fulfillment Center,Mumbai South,Dadar
+WH-009,Sion Fulfillment Center,Mumbai Central,Sion
+WH-010,Bhandup Fulfillment Center,Mumbai Central,Bhandup
+WH-011,Vikhroli Fulfillment Center,Mumbai Central,Vikhroli
+WH-012,Ghatkopar Fulfillment Center,Mumbai Central,Ghatkopar
+WH-013,Mulund Fulfillment Center,Mumbai Central,Mulund
+WH-014,Powai Fulfillment Center,Mumbai Central,Powai
+WH-015,Parel Fulfillment Center,Mumbai South,Parel
+WH-016,Worli Fulfillment Center,Mumbai South,Worli
+WH-017,Sakinaka Fulfillment Center,Mumbai Central,Sakinaka
+WH-018,Bandra East Fulfillment Center,Mumbai Central,Bandra East
